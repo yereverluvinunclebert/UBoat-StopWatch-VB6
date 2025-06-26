@@ -2,6 +2,7 @@
 
  A FOSS Stopwatch VB6 Widget for Windows Vista, 7, 8 and 10/11+. There will also be a version for Reactos and XP, watch this space for the link. Also tested and running well on Linux and Mac os/X using Wine.
 
+![mini-uboat-icon](https://github.com/user-attachments/assets/d55415cf-aed5-4176-8e08-a4b3e7d7f94d)
 My current VB6/RC6 PSD program being worked upon now, in progress, you can download but the stopwatch code has not yet been implemented. New version always coming. I am working on pointer animation. This VB6 widget is based upon the Yahoo/Konfabulator widget of the same design.
  
 This Panzer widget is an attractive dieselpunk Yahoo widget for your desktop. 
@@ -9,20 +10,20 @@ It will be a simple multi-timezone stopwatch and clock. Functional and gorgeous 
 the same time. This Widget is a moveable widget that you can move anywhere 
 around the desktop as you require.
 
-![panzer-photo-1440x900X](https://github.com/yereverluvinunclebert/Panzer-StopWatch-Clock-VB6/assets/2788342/c4b6515a-8425-4f0b-8393-d092306c7624)
+![uboat](https://github.com/user-attachments/assets/6f489c2b-ac46-417f-914d-5dab568e8d09)
 
 This widgets functionality is limited as it is just a template for widgets yet
 to come, however, it can be increased in size, animation speed can be changed, 
 opacity/transparency may be set as to the users discretion. The widget can 
 also be made to hide for a pre-determined period.
 
-![tank-clock-mk1](https://github.com/yereverluvinunclebert/Panzer-StopWatch-Clock-VB6/assets/2788342/45805383-244f-4370-ba3e-3259b9fd3805)
+![uboat-prpomo](https://github.com/user-attachments/assets/7f5dc5c1-6c3b-4e67-abcf-4996ae7c7317)
 
 Right-click on the widget to display the function menu, mouse hover over the 
 widget and press CTRL+mousewheel up/down to resize. It works well on Windows XP 
 to Windows 11.
 
-![panzer-clock-web-help](https://github.com/yereverluvinunclebert/Panzer-StopWatch-Clock-VB6/assets/2788342/62704796-76ee-4053-a163-c0767d2cd42b)
+![panzergauge-help](https://github.com/user-attachments/assets/a4f63882-8ba7-45c9-81a7-57a20c74e1b1)
 
 The Panzer Stopwatch VB6 gauge is Beta-grade software, under development, not yet 
 ready to use on a production system - use at your own risk.
@@ -202,4 +203,5 @@ original artist using my name or one of my pseudonyms and a link to my site.
 With regard to the commercial use of incorporated images, permission and a 
 licence would need to be obtained from the original owner and creator, ie. me.
 
-![panzer-clock-ywidget-displa](https://github.com/yereverluvinunclebert/Panzer-StopWatch-Clock-VB6/assets/2788342/daf48cf7-d9fa-4026-84e7-aef518ab72bf)
+![About](https://github.com/user-attachments/assets/69e263da-c602-440b-b279-6f10e2e8a50a)
+
