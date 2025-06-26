@@ -1,7 +1,7 @@
 VERSION 5.00
 Object = "{BCE37951-37DF-4D69-A8A3-2CFABEE7B3CC}#1.0#0"; "CCRSlider.ocx"
 Begin VB.Form widgetPrefs 
-   Caption         =   "Steampunk Clock Calendar Preferences"
+   Caption         =   "UBoat StopWatch Preferences"
    ClientHeight    =   10545
    ClientLeft      =   60
    ClientTop       =   510
@@ -41,7 +41,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgDevelopment 
          Height          =   600
          Left            =   150
-         Picture         =   "frmPrefs.frx":0ECA
+         Picture         =   "frmPrefs.frx":25CA
          Stretch         =   -1  'True
          Top             =   225
          Width           =   600
@@ -49,7 +49,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgDevelopmentClicked 
          Height          =   600
          Left            =   160
-         Picture         =   "frmPrefs.frx":1482
+         Picture         =   "frmPrefs.frx":2B82
          Stretch         =   -1  'True
          Top             =   225
          Width           =   600
@@ -89,7 +89,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgAbout 
          Height          =   600
          Left            =   160
-         Picture         =   "frmPrefs.frx":1808
+         Picture         =   "frmPrefs.frx":2F08
          Stretch         =   -1  'True
          Top             =   225
          Width           =   600
@@ -97,7 +97,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgAboutClicked 
          Height          =   600
          Left            =   160
-         Picture         =   "frmPrefs.frx":1D90
+         Picture         =   "frmPrefs.frx":3490
          Stretch         =   -1  'True
          Top             =   225
          Width           =   600
@@ -122,7 +122,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgConfig 
          Height          =   600
          Left            =   165
-         Picture         =   "frmPrefs.frx":227B
+         Picture         =   "frmPrefs.frx":397B
          Stretch         =   -1  'True
          Top             =   240
          Width           =   600
@@ -130,7 +130,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgConfigClicked 
          Height          =   600
          Left            =   165
-         Picture         =   "frmPrefs.frx":285A
+         Picture         =   "frmPrefs.frx":3F5A
          Stretch         =   -1  'True
          Top             =   225
          Width           =   600
@@ -155,7 +155,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgPosition 
          Height          =   600
          Left            =   160
-         Picture         =   "frmPrefs.frx":2D5F
+         Picture         =   "frmPrefs.frx":445F
          Stretch         =   -1  'True
          Top             =   225
          Width           =   600
@@ -163,7 +163,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgPositionClicked 
          Height          =   600
          Left            =   160
-         Picture         =   "frmPrefs.frx":3330
+         Picture         =   "frmPrefs.frx":4A30
          Stretch         =   -1  'True
          Top             =   225
          Width           =   600
@@ -208,7 +208,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgSounds 
          Height          =   600
          Left            =   160
-         Picture         =   "frmPrefs.frx":36CE
+         Picture         =   "frmPrefs.frx":4DCE
          Stretch         =   -1  'True
          Top             =   225
          Width           =   600
@@ -216,7 +216,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgSoundsClicked 
          Height          =   600
          Left            =   160
-         Picture         =   "frmPrefs.frx":3C8D
+         Picture         =   "frmPrefs.frx":538D
          Stretch         =   -1  'True
          Top             =   225
          Width           =   600
@@ -256,7 +256,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgWindow 
          Height          =   600
          Left            =   160
-         Picture         =   "frmPrefs.frx":415D
+         Picture         =   "frmPrefs.frx":585D
          Stretch         =   -1  'True
          Top             =   225
          Width           =   600
@@ -264,7 +264,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgWindowClicked 
          Height          =   600
          Left            =   160
-         Picture         =   "frmPrefs.frx":4627
+         Picture         =   "frmPrefs.frx":5D27
          Stretch         =   -1  'True
          Top             =   225
          Width           =   600
@@ -288,7 +288,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgFonts 
          Height          =   600
          Left            =   180
-         Picture         =   "frmPrefs.frx":49D3
+         Picture         =   "frmPrefs.frx":60D3
          Stretch         =   -1  'True
          Top             =   195
          Width           =   600
@@ -296,7 +296,7 @@ Begin VB.Form widgetPrefs
       Begin VB.Image imgFontsClicked 
          Height          =   600
          Left            =   180
-         Picture         =   "frmPrefs.frx":4F29
+         Picture         =   "frmPrefs.frx":6629
          Stretch         =   -1  'True
          Top             =   195
          Width           =   600
@@ -312,7 +312,7 @@ Begin VB.Form widgetPrefs
          Appearance      =   0  'Flat
          Height          =   600
          Left            =   165
-         Picture         =   "frmPrefs.frx":53C2
+         Picture         =   "frmPrefs.frx":6AC2
          Stretch         =   -1  'True
          Top             =   225
          Width           =   600
@@ -361,9 +361,9 @@ Begin VB.Form widgetPrefs
          End
          Begin VB.ComboBox cmbMainGaugeTimeZone 
             Height          =   315
-            ItemData        =   "frmPrefs.frx":6A0C
+            ItemData        =   "frmPrefs.frx":810C
             Left            =   1995
-            List            =   "frmPrefs.frx":6A0E
+            List            =   "frmPrefs.frx":810E
             Style           =   2  'Dropdown List
             TabIndex        =   171
             Top             =   2040
@@ -388,9 +388,9 @@ Begin VB.Form widgetPrefs
          End
          Begin VB.ComboBox cmbTickSwitchPref 
             Height          =   315
-            ItemData        =   "frmPrefs.frx":6A10
+            ItemData        =   "frmPrefs.frx":8110
             Left            =   2010
-            List            =   "frmPrefs.frx":6A12
+            List            =   "frmPrefs.frx":8112
             Style           =   2  'Dropdown List
             TabIndex        =   168
             Top             =   6165
@@ -407,9 +407,9 @@ Begin VB.Form widgetPrefs
          End
          Begin VB.ComboBox cmbClockFaceSwitchPref 
             Height          =   315
-            ItemData        =   "frmPrefs.frx":6A14
+            ItemData        =   "frmPrefs.frx":8114
             Left            =   2010
-            List            =   "frmPrefs.frx":6A16
+            List            =   "frmPrefs.frx":8116
             Style           =   2  'Dropdown List
             TabIndex        =   166
             Top             =   1080
@@ -642,7 +642,7 @@ Begin VB.Form widgetPrefs
          MultiLine       =   -1  'True
          ScrollBars      =   2  'Vertical
          TabIndex        =   101
-         Text            =   "frmPrefs.frx":6A18
+         Text            =   "frmPrefs.frx":8118
          Top             =   2205
          Width           =   7935
       End
@@ -1110,7 +1110,7 @@ Begin VB.Form widgetPrefs
             Width           =   2490
          End
          Begin VB.Label lblConfiguration 
-            Caption         =   $"frmPrefs.frx":79CF
+            Caption         =   $"frmPrefs.frx":90CF
             Height          =   915
             Index           =   0
             Left            =   1980
@@ -1301,7 +1301,7 @@ Begin VB.Form widgetPrefs
             Width           =   3285
          End
          Begin VB.Label lblFontsTab 
-            Caption         =   $"frmPrefs.frx":7A83
+            Caption         =   $"frmPrefs.frx":9183
             Height          =   1710
             Index           =   0
             Left            =   1680
@@ -1477,7 +1477,7 @@ Begin VB.Form widgetPrefs
                Width           =   720
             End
             Begin VB.Label lblWindowLevel 
-               Caption         =   $"frmPrefs.frx":7BC1
+               Caption         =   $"frmPrefs.frx":92C1
                Height          =   975
                Index           =   1
                Left            =   855
@@ -1513,7 +1513,7 @@ Begin VB.Form widgetPrefs
             Width           =   1830
          End
          Begin VB.Label lblWindowLevel 
-            Caption         =   $"frmPrefs.frx":7C64
+            Caption         =   $"frmPrefs.frx":9364
             Height          =   1140
             Index           =   10
             Left            =   2235
@@ -1636,7 +1636,7 @@ Begin VB.Form widgetPrefs
                Width           =   3660
             End
             Begin VB.Label lblGitHub 
-               Caption         =   $"frmPrefs.frx":7D7B
+               Caption         =   $"frmPrefs.frx":947B
                ForeColor       =   &H8000000D&
                Height          =   915
                Left            =   1560
@@ -1646,7 +1646,7 @@ Begin VB.Form widgetPrefs
                Width           =   4935
             End
             Begin VB.Label lblDebug 
-               Caption         =   $"frmPrefs.frx":7E42
+               Caption         =   $"frmPrefs.frx":9542
                Height          =   930
                Index           =   9
                Left            =   1545
@@ -1693,9 +1693,9 @@ Begin VB.Form widgetPrefs
          End
          Begin VB.ComboBox cmbDebug 
             Height          =   315
-            ItemData        =   "frmPrefs.frx":7EE6
+            ItemData        =   "frmPrefs.frx":95E6
             Left            =   1530
-            List            =   "frmPrefs.frx":7EE8
+            List            =   "frmPrefs.frx":95E8
             Style           =   2  'Dropdown List
             TabIndex        =   46
             ToolTipText     =   "Choose to set debug mode."
@@ -1954,7 +1954,7 @@ Begin VB.Form widgetPrefs
             Width           =   2115
          End
          Begin VB.Label lblPosition 
-            Caption         =   $"frmPrefs.frx":7EEA
+            Caption         =   $"frmPrefs.frx":95EA
             Height          =   3435
             Index           =   12
             Left            =   5145
@@ -1974,7 +1974,7 @@ Begin VB.Form widgetPrefs
             Width           =   2040
          End
          Begin VB.Label lblPosition 
-            Caption         =   $"frmPrefs.frx":80BC
+            Caption         =   $"frmPrefs.frx":97BC
             Height          =   705
             Index           =   10
             Left            =   2250
@@ -1994,7 +1994,7 @@ Begin VB.Form widgetPrefs
             Width           =   2355
          End
          Begin VB.Label lblPosition 
-            Caption         =   $"frmPrefs.frx":815B
+            Caption         =   $"frmPrefs.frx":985B
             Height          =   3045
             Index           =   6
             Left            =   2265
