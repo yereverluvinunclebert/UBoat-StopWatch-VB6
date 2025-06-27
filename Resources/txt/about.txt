@@ -1,4 +1,4 @@
-PANZER STOP WATCH WIDGET
+UBOAT STOP WATCH WIDGET
 
 The Panzer stop watch Widget is a utility displaying a clock and stop watch in a dieselpunk fashion on your desktop. It can be resized and placed anywhere on your desktop. It uses minimal resources and helps give your desktop a dieselpunk make-over.
 
