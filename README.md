@@ -1,4 +1,4 @@
-#UBoat-StopWatch-Clock-VB6
+# UBOAT-StopWatch-Clock-VB6
 
 ![mini-uboat-icon](https://github.com/user-attachments/assets/d55415cf-aed5-4176-8e08-a4b3e7d7f94d) A FOSS Stopwatch VB6 Widget for Windows Vista, 7, 8 and 10/11+. There will also be a version later for Reactos and XP, watch this space for the link. Also tested and running well on Linux and Mac os/X using Wine.
 
