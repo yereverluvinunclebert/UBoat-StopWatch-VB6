@@ -2165,7 +2165,6 @@ Private pCmbSecondaryGaugeTimeZoneBalloonTooltip As String
 Private pCmbSecondaryDaylightSavingBalloonTooltip As String
 Private pCmbTickSwitchPrefBalloonTooltip As String
 
-
 Private mIsLoaded As Boolean ' property
 Private mGaugeSize As Single   ' property
 
@@ -7690,10 +7689,5 @@ End Sub
 '/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 
 
-
-
-Private Sub txtSecondaryBias_Change()
-
-End Sub
 
 

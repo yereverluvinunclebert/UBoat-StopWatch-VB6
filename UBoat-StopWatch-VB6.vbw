@@ -17,5 +17,5 @@ Module1 = 0, 0, 0, 0, C
 monitorModule = 0, 0, 0, 0, C
 widgetPrefs = 78, 78, 1022, 817, , 52, 52, 996, 791, C
 Subclasser = 0, 0, 0, 0, C
-modDaylightSavings = 0, 0, 0, 0, C
+modDaylightSavings = 0, 0, 1172, 739, 
 cwHelp = 0, 0, 0, 0, C
