@@ -1,9 +1,8 @@
 # Panzer-StopWatch-Clock-VB6
 
- A FOSS Stopwatch VB6 Widget for Windows Vista, 7, 8 and 10/11+. There will also be a version for Reactos and XP, watch this space for the link. Also tested and running well on Linux and Mac os/X using Wine.
+![mini-uboat-icon](https://github.com/user-attachments/assets/d55415cf-aed5-4176-8e08-a4b3e7d7f94d) A FOSS Stopwatch VB6 Widget for Windows Vista, 7, 8 and 10/11+. There will also be a version later for Reactos and XP, watch this space for the link. Also tested and running well on Linux and Mac os/X using Wine.
 
-![mini-uboat-icon](https://github.com/user-attachments/assets/d55415cf-aed5-4176-8e08-a4b3e7d7f94d)
-My current VB6/RC6 PSD program being worked upon now, in progress, you can download but the stopwatch code has not yet been implemented. New version always coming. I am working on pointer animation. This VB6 widget is based upon the Yahoo/Konfabulator widget of the same design.
+One of my VB6/RC6 PSD WoW 64 designs, a work largely complete but as with all software some tasks to complete and unfound bugs to repair. However, it works, there is an installer and it does the job. i. New version always coming.  This VB6 widget is based upon the Yahoo/Konfabulator and Xwidgets of the same design. Those older widget platforms are now obsolete so I have migrated the code to a new development environment. Each exists now as a Windows binary. Look in the releases folder for an installer.
  
 This Panzer widget is an attractive dieselpunk Yahoo widget for your desktop. 
 It will be a simple multi-timezone stopwatch and clock. Functional and gorgeous at 
@@ -20,8 +19,8 @@ also be made to hide for a pre-determined period.
 ![uboat-prpomo](https://github.com/user-attachments/assets/7f5dc5c1-6c3b-4e67-abcf-4996ae7c7317)
 
 Right-click on the widget to display the function menu, mouse hover over the 
-widget and press CTRL+mousewheel up/down to resize. It works well on Windows XP 
-to Windows 11.
+widget and press CTRL+mousewheel up/down to resize. It works well on Windows Vista 
+to Windows 11+
 
 ![panzergauge-help](https://github.com/user-attachments/assets/a4f63882-8ba7-45c9-81a7-57a20c74e1b1)
 
